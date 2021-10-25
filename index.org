@@ -1,0 +1,14 @@
+#+title: Krank training program
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/index.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/index.js"></script>
+
+* Application index
+
+** Nov 2021 - Block 1
+** Dec 2021 - Block 2
+
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:
