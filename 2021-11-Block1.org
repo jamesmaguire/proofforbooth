@@ -1,0 +1,188 @@
+#+title: Nov 2021 - Block 1
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+* Schedule
+
+This block of training has three days per week:
+
+- Workout 1: SAQ 1 + Conditioning 1
+- Workout 2: SAQ 2 + Conditioning 2
+- Workout 3: Strength 1
+  
+Weeks:
+
+#+attr_html: :id scheduletable
+| Week | Start of week    | Workouts |
+|------+------------------+----------|
+|    1 | 1 November 2021  | 1, 2, 3  |
+|    2 | 8 November 2021  | 1, 2, 3  |
+|    3 | 15 November 2021 | 1, 2, 3  |
+|    4 | 22 November 2021 | 1, 2, 3  |
+
+* General principles
+
+- SAQ (speed agility quickness) + Conditioning sessions should take around 45 minutes.
+- SAQ workouts are not conditioning. Do not do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
+- If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+
+* Program
+** SAQ 1
+*** A. Non countermovement lateral hop
+[[https://www.youtube.com/embed/Zf17iGdNpaU?rel=0][Video demo]]
+
+Pause between each jump. Aim for height and stick the landing.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn reps |
+|------+------+------------+----------------|
+|    1 |    3 | 3 each way | 60s            |
+|    2 |    3 | 3 each way | 60s            |
+|    3 |    3 | 3 each way | 60s            |
+|    4 |    3 | 3 each way | 60s            |
+
+*** B. Lateral skip
+[[https://www.youtube.com/embed/DxdXUL6W_I0?rel=0][Video demo]]
+
+Push from outside of foot. Aim for max lateral displacement.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps               | Rest b/wn reps |
+|------+------+--------------------+----------------|
+|    1 |    4 | 15m each direction | 60s            |
+|    2 |    4 | 15m each direction | 60s            |
+|    3 |    4 | 15m each direction | 60s            |
+|    4 |    4 | 15m each direction | 60s            |
+
+*** C. Lateral start
+[[https://www.youtube.com/embed/TSidobyZYac?rel=0][Video demo]]
+
+Facing sprint direction within 3 steps.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn reps |
+|------+------+------------+----------------|
+|    1 |    3 | 3 each way | 60s            |
+|    2 |    3 | 3 each way | 60s            |
+|    3 |    3 | 3 each way | 60s            |
+|    4 |    3 | 3 each way | 60s            |
+** Conditioning 1
+*** A. 80% sprint
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn reps |
+|------+------+------+----------------|
+|    1 |  3-5 | 110m | 40s walk       |
+|    2 |  4-6 | 110m | 40s walk       |
+|    3 |  4-6 | 110m | 40s walk       |
+|    4 |  4-6 | 110m | 40s walk       |
+
+*** B. 160 Shuttle (4x40m)
+#+attr_html: :class reptable
+| Week | Sets | Reps| Rest b/wn reps |
+|------+------+-----+----------------|
+|    1 |    2 |   1 | 90s            |
+|    2 |    2 |   1 | 90s            |
+|    3 |    3 |   1 | 90s            |
+|    4 |    3 |   1 | 90s            |
+
+*** C. 80% sprint
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn reps |
+|------+------+------+----------------|
+|    1 |  3-5 | 110m | 40s walk       |
+|    2 |  4-6 | 110m | 40s walk       |
+|    3 |  4-6 | 110m | 40s walk       |
+|    4 |  4-6 | 110m | 40s walk       |
+
+** SAQ 2
+*** A. Scissor jump for height
+[[https://www.youtube.com/embed/Bo_Rg5fhZMQ?rel=0][Video demo]]
+
+Aim for max height and min time on ground.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn reps |
+|------+------+------------+----------------|
+|    1 |    3 | 3 each leg | 120s           |
+|    2 |    3 | 3 each leg | 120s           |
+|    3 |    3 | 3 each leg | 120s           |
+|    4 |    3 | 3 each leg | 120s           |
+
+*** B. Power skip for distance
+
+Get full hip extension. Use arms for momentum.
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn reps |
+|------+------+------------+----------------|
+|    1 |    3 | 3 each leg | 120s           |
+|    2 |    3 | 3 each leg | 120s           |
+|    3 |    3 | 3 each leg | 120s           |
+|    4 |    3 | 3 each leg | 120s           |
+
+*** C. Accelerate and decelerate
+[[https://www.youtube.com/embed/j_9qk0MJ4Fw?rel=0][Video demo]]
+
+Hit max speed as quick as possible. Decelerate to walking by the cone.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps  | Rest b/wn reps |
+|------+------+-------+----------------|
+|    1 |    2 | 4x25m | 120s           |
+|    2 |    2 | 4x30m | 120s           |
+|    3 |    2 | 4x35m | 120s           |
+|    4 |    2 | 4x40m | 120s           |
+
+*** D. Low squat jump
+[[https://www.youtube.com/embed/tiaf7MAyJ-w?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps| Rest b/wn reps |
+|------+------+-----+----------------|
+|    1 |    3 | 10s | 40s            |
+|    2 |    3 | 12s | 40s            |
+|    3 |    3 | 14s | 40s            |
+|    4 |    3 | 16s | 40s            |
+** Conditioning 2
+*** A. Skater hop with cone touch
+[[https://www.youtube.com/embed/GFJBgHzg5gg?rel=0][Video demo]]
+
+Distance so that it's challenging
+
+#+attr_html: :class reptable
+| Week | Sets | Reps| Rest b/wn reps |
+|------+------+-----+----------------|
+|    1 |    3 | 30s | 90s            |
+|    2 |    4 | 30s | 90s            |
+|    3 |    5 | 30s | 90s            |
+|    4 |    6 | 30s | 90s            |
+
+*** B. Shuffle
+[[https://www.youtube.com/embed/aIEw4tUr1ys?rel=0][Video demo]]
+
+10m back and forth
+
+#+attr_html: :class reptable
+| Week | Sets | Reps| Rest b/wn reps |
+|------+------+-----+----------------|
+|    1 |    3 | 30s | 90s            |
+|    2 |    4 | 30s | 90s            |
+|    3 |    5 | 30s | 90s            |
+|    4 |    6 | 30s | 90s            |
+
+*** C. Short Shuffle
+5m back and forth
+#+attr_html: :class reptable
+| Week | Sets | Reps| Rest b/wn reps |
+|------+------+-----+----------------|
+|    1 |    3 | 30s | 90s            |
+|    2 |    4 | 30s | 90s            |
+|    3 |    5 | 30s | 90s            |
+|    4 |    6 | 30s | 90s            |
+
+** Strength TBD
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:
