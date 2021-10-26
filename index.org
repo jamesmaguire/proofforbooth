@@ -1,12 +1,12 @@
-#+title: Krank training program
+#+title: Proof for Booth
 #+setupfile: page.setup
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/index.css" />
 #+HTML_HEAD: <script type="text/javascript" src="static/index.js"></script>
 
-* Application index
+* Krank 2021/22 season
 
-** Nov 2021 - Block 1
-** Dec 2021 - Block 2
+** [[file:2021-11-Block1.org][Nov 2021 - Block 1]]
+** [[file:2021-12-Block2.org][Dec 2021 - Block 2]]
 
 * Export on save                                                   :noexport:
 ;; Local Variables:

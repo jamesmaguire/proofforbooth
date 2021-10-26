@@ -1,0 +1,57 @@
+*, ::before, ::after {
+  box-sizing: border-box;
+  font-family: Sans-serif;
+  line-height: 1.5;
+  font-size: 10pt;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background: #ddd;
+  color: #333;
+}
+
+#org-div-home-and-up { display: none; }
+
+#content {
+  margin: auto;
+  padding-bottom: 5rem;
+  max-width: 70ch;
+  width: 90%;
+}
+
+h1 {
+  font-size: 200%;
+  text-align: left;  
+  text-transform: uppercase;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 140%;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 110%;
+  color: lightgrey;
+}
+
+a {
+  color: darkred;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 1.5rem;
+}
+
