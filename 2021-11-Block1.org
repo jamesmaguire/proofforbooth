@@ -4,6 +4,8 @@
 #+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
 #+HTML_HEAD: <body onload="initPage();">
 
+# Based on UAP Off-season 1
+
 * Schedule
 
 This block of training has three days per week:
@@ -25,6 +27,7 @@ Weeks:
 * General principles
 
 - SAQ (speed agility quickness) + Conditioning sessions should take around 45 minutes.
+- Ensure you are respecting the full rest between sets during SAQ exercises. It will seem like a long time, but it's designed that way for a reason.
 - SAQ workouts are not conditioning. Do not do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
 - If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
 
@@ -36,7 +39,7 @@ Weeks:
 Pause between each jump. Aim for height and stick the landing.
 
 #+attr_html: :class reptable
-| Week | Sets | Reps       | Rest b/wn reps |
+| Week | Sets | Reps       | Rest b/wn sets |
 |------+------+------------+----------------|
 |    1 |    3 | 3 each way | 60s            |
 |    2 |    3 | 3 each way | 60s            |
@@ -49,7 +52,7 @@ Pause between each jump. Aim for height and stick the landing.
 Push from outside of foot. Aim for max lateral displacement.
 
 #+attr_html: :class reptable
-| Week | Sets | Reps               | Rest b/wn reps |
+| Week | Sets | Reps               | Rest b/wn sets |
 |------+------+--------------------+----------------|
 |    1 |    4 | 15m each direction | 60s            |
 |    2 |    4 | 15m each direction | 60s            |
@@ -62,7 +65,7 @@ Push from outside of foot. Aim for max lateral displacement.
 Facing sprint direction within 3 steps.
 
 #+attr_html: :class reptable
-| Week | Sets | Reps       | Rest b/wn reps |
+| Week | Sets | Reps       | Rest b/wn sets |
 |------+------+------------+----------------|
 |    1 |    3 | 3 each way | 60s            |
 |    2 |    3 | 3 each way | 60s            |
@@ -71,7 +74,7 @@ Facing sprint direction within 3 steps.
 ** Conditioning 1
 *** A. 80% sprint
 #+attr_html: :class reptable
-| Week | Sets | Reps | Rest b/wn reps |
+| Week | Sets | Reps | Rest b/wn sets |
 |------+------+------+----------------|
 |    1 |  3-5 | 110m | 40s walk       |
 |    2 |  4-6 | 110m | 40s walk       |
@@ -80,7 +83,7 @@ Facing sprint direction within 3 steps.
 
 *** B. 160 Shuttle (4x40m)
 #+attr_html: :class reptable
-| Week | Sets | Reps| Rest b/wn reps |
+| Week | Sets | Reps| Rest b/wn sets |
 |------+------+-----+----------------|
 |    1 |    2 |   1 | 90s            |
 |    2 |    2 |   1 | 90s            |
@@ -89,7 +92,7 @@ Facing sprint direction within 3 steps.
 
 *** C. 80% sprint
 #+attr_html: :class reptable
-| Week | Sets | Reps | Rest b/wn reps |
+| Week | Sets | Reps | Rest b/wn sets |
 |------+------+------+----------------|
 |    1 |  3-5 | 110m | 40s walk       |
 |    2 |  4-6 | 110m | 40s walk       |
@@ -103,7 +106,7 @@ Facing sprint direction within 3 steps.
 Aim for max height and min time on ground.
 
 #+attr_html: :class reptable
-| Week | Sets | Reps       | Rest b/wn reps |
+| Week | Sets | Reps       | Rest b/wn sets |
 |------+------+------------+----------------|
 |    1 |    3 | 3 each leg | 120s           |
 |    2 |    3 | 3 each leg | 120s           |
@@ -114,7 +117,7 @@ Aim for max height and min time on ground.
 
 Get full hip extension. Use arms for momentum.
 #+attr_html: :class reptable
-| Week | Sets | Reps       | Rest b/wn reps |
+| Week | Sets | Reps       | Rest b/wn sets |
 |------+------+------------+----------------|
 |    1 |    3 | 3 each leg | 120s           |
 |    2 |    3 | 3 each leg | 120s           |
@@ -127,7 +130,7 @@ Get full hip extension. Use arms for momentum.
 Hit max speed as quick as possible. Decelerate to walking by the cone.
 
 #+attr_html: :class reptable
-| Week | Sets | Reps  | Rest b/wn reps |
+| Week | Sets | Reps  | Rest b/wn sets |
 |------+------+-------+----------------|
 |    1 |    2 | 4x25m | 120s           |
 |    2 |    2 | 4x30m | 120s           |
@@ -138,7 +141,7 @@ Hit max speed as quick as possible. Decelerate to walking by the cone.
 [[https://www.youtube.com/embed/tiaf7MAyJ-w?rel=0][Video demo]]
 
 #+attr_html: :class reptable
-| Week | Sets | Reps| Rest b/wn reps |
+| Week | Sets | Reps| Rest b/wn sets |
 |------+------+-----+----------------|
 |    1 |    3 | 10s | 40s            |
 |    2 |    3 | 12s | 40s            |
@@ -151,7 +154,7 @@ Hit max speed as quick as possible. Decelerate to walking by the cone.
 Distance so that it's challenging
 
 #+attr_html: :class reptable
-| Week | Sets | Reps| Rest b/wn reps |
+| Week | Sets | Reps| Rest b/wn sets |
 |------+------+-----+----------------|
 |    1 |    3 | 30s | 90s            |
 |    2 |    4 | 30s | 90s            |
@@ -164,7 +167,7 @@ Distance so that it's challenging
 10m back and forth
 
 #+attr_html: :class reptable
-| Week | Sets | Reps| Rest b/wn reps |
+| Week | Sets | Reps| Rest b/wn sets |
 |------+------+-----+----------------|
 |    1 |    3 | 30s | 90s            |
 |    2 |    4 | 30s | 90s            |
@@ -174,14 +177,14 @@ Distance so that it's challenging
 *** C. Short Shuffle
 5m back and forth
 #+attr_html: :class reptable
-| Week | Sets | Reps| Rest b/wn reps |
+| Week | Sets | Reps| Rest b/wn sets |
 |------+------+-----+----------------|
 |    1 |    3 | 30s | 90s            |
 |    2 |    4 | 30s | 90s            |
 |    3 |    5 | 30s | 90s            |
 |    4 |    6 | 30s | 90s            |
 
-** Strength TBD
+** TODO Strength
 * Export on save                                                   :noexport:
 ;; Local Variables:
 ;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
