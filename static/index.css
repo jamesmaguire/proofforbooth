@@ -9,41 +9,76 @@
 
 body {
   min-height: 100vh;
-  background: #ddd;
-  color: #333;
+  background: #464e6f;
+  color: #eee;
 }
 
 #org-div-home-and-up { display: none; }
 
 #content {
-  margin: auto;
   padding-bottom: 5rem;
-  max-width: 70ch;
-  width: 90%;
+  text-align: center;
 }
 
 h1 {
-  font-size: 200%;
-  text-align: left;  
+  margin: auto;
+  font-size: 7vw;
   text-transform: uppercase;
-  margin-top: 3rem;
+  margin-top: 20vh;
   margin-bottom: 2rem;
+  
+  text-shadow: -2px -2px 5px #000, 2px -2px 5px #000, -2px 2px 5px #000, 2px 2px 5px #000;
+  color: #ddd;
+}
+
+.org-svg {
+  position: absolute;
+  top: 7vw;
+  left: 7vw;
+  height: 80vh;
+  width: 80vw;
+  z-index: -100;
 }
 
 h2 {
-  font-size: 140%;
+  margin: auto;
+  font-size: 150%;
   margin-top: 3rem;
-  margin-bottom: 1rem;
+  margin-bottom: 6rem;
+  
+    
+  text-shadow: -2px -2px 5px #000, 2px -2px 5px #000, -2px 2px 5px #000, 2px 2px 5px #000;
+  color: #f5bd5c;
+}
+
+.outline-3 {
+  display: inline-block;
+  float: center;
+  text-align: left;
+  padding: 1rem;
+  
+  background: #ddd;
+  color: #333;
+  border: 2px solid #333;
+  
+  min-width: 30ch;
+  min-height: 15ch;
+  margin: 2%;
+  width: 25vw;
+  height: 10vw;
 }
 
 h3 {
-  font-size: 110%;
   color: lightgrey;
+  margin-bottom: 1rem;
 }
 
 a {
-  color: darkred;
+  font-size: 150%;
+  color: #9d0606;
   text-decoration: none;
+  border-bottom: 2px solid #9d0606;
+  padding-right: 20%;
 }
 a:hover {
   text-decoration: underline;

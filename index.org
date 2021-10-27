@@ -3,10 +3,15 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/index.css" />
 #+HTML_HEAD: <script type="text/javascript" src="static/index.js"></script>
 
+[[file:./static/krank-fist.svg]]
+
 * Krank 2021/22 season
 
-** [[file:2021-11-Block1.org][Nov 2021 - Block 1]]
-** [[file:2021-12-Block2.org][Dec 2021 - Block 2]]
+** [[file:2021-11-Block1.org][Block 1]]
+1 Nov 2021 -- 28 Nov 2021
+
+** [[file:2021-12-Block2.org][Block 2]]
+29 Nov 2021 -- 26 Dec 2021
 
 * Export on save                                                   :noexport:
 ;; Local Variables:
