@@ -1,0 +1,172 @@
+#+title: Dec 2021 - Block 2
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+# Based of UAP Pre-season 1 (SAQ), Pre-season 2 (Cond.)
+
+* Schedule
+
+This block of training has three days per week:
+
+- Workout 1: SAQ 1 + Conditioning 1
+- Workout 2: SAQ 2 + Conditioning 2
+- Workout 3: Strength 1
+  
+Weeks:
+
+#+attr_html: :id scheduletable
+| Week | Start of week    | Workouts |
+|------+------------------+----------|
+|    1 | 29 November 2021 | 1, 2, 3  |
+|    2 | 6 December 2021  | 1, 2, 3  |
+|    3 | 13 December 2021 | 1, 2, 3  |
+|    4 | 20 December 2021 | 1, 2, 3  |
+
+* General principles
+
+- SAQ (speed agility quickness) + Conditioning sessions should take around 45 minutes.
+- Ensure you are respecting the full rest between sets during SAQ exercises. It will seem like a long time, but it's designed that way for a reason.
+- SAQ workouts are not conditioning. Do not do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
+- If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+
+* Program
+** SAQ 1
+*** A. Low squat to scissor jump
+[[https://www.youtube.com/embed/Mf7cZzcCyuc?rel=0][Video demo]]
+
+Knees close to 90\deg{} in squat and aim for minimum time of ground contact.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn sets |
+|------+------+------------+----------------|
+|    1 |    4 | 2 each leg | 60s            |
+|    2 |    4 | 2 each leg | 60s            |
+|    3 |    4 | 2 each leg | 60s            |
+|    4 |    4 | 2 each leg | 60s            |
+
+*** B. Single leg bench hop
+[[https://www.youtube.com/embed/zT_jMofv4V8?rel=0][Video demo]]
+
+Slam working leg onto bench and push. Move slightly forward each rep to ensure max hip extension.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn sets |
+|------+------+------------+----------------|
+|    1 |    3 | 5 each leg | 60s            |
+|    2 |    3 | 5 each leg | 60s            |
+|    3 |    3 | 5 each leg | 60s            |
+|    4 |    3 | 5 each leg | 60s            |
+
+** Conditioning 1
+*** A. 5-10-5, 5 frog jump
+[[https://www.youtube.com/embed/57fJcrpPif8?rel=0][Video demo]]
+
+Get butt low. Touch ground with hands if possible.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 60s            |
+|    2 |    3 |    1 | 60s            |
+|    3 |    3 |    1 | 60s            |
+|    4 |    3 |    1 | 60s            |
+
+*** B. Zig zag sprint
+[[https://www.youtube.com/embed/YdgYleKenGM?rel=0][Video demo]]
+
+Focus on jab step.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 60s            |
+|    2 |    2 |    1 | 60s            |
+|    3 |    3 |    1 | 60s            |
+|    4 |    3 |    1 | 60s            |
+
+*** C. Figure 8 sprint
+[[https://www.youtube.com/embed/zwHfN0hlEVc?rel=0][Video demo]]
+
+Attempt to cut on inside of foot rather than outside (opposite to jab step).
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 60s            |
+|    2 |    2 |    1 | 60s            |
+|    3 |    2 |    1 | 60s            |
+|    4 |    3 |    1 | 60s            |
+
+** SAQ 2
+*** A. Jab step agility to cut
+[[https://www.youtube.com/embed/_6k3XvTzuak?rel=0][Video demo]]
+
+Focus on good quality movement before progressing speed and power.
+
+#+attr_html: :class reptable
+| Week | Sets             | Reps                  | Rest b/wn sets |
+|------+------------------+-----------------------+----------------|
+|    1 | 3 each direction | 10m jab step, cut 10m | 60s            |
+|    2 | 3 each direction | 10m jab step, cut 10m | 60s            |
+|    3 | 3 each direction | 10m jab step, cut 10m | 60s            |
+|    4 | 3 each direction | 10m jab step, cut 10m | 60s            |
+
+*** B. Waltz agility to cut
+[[https://www.youtube.com/embed/GD_f0hbzGcs?rel=0][Video demo]]
+
+Focus on good quality movement before progressing speed and power.
+
+#+attr_html: :class reptable
+| Week | Sets             | Reps               | Rest b/wn sets |
+|------+------------------+--------------------+----------------|
+|    1 | 3 each direction | 10m waltz, cut 10m | 60s            |
+|    2 | 3 each direction | 10m waltz, cut 10m | 60s            |
+|    3 | 3 each direction | 10m waltz, cut 10m | 60s            |
+|    4 | 3 each direction | 10m waltz, cut 10m | 60s            |
+
+** Conditioning 2
+*** A1. Shuttle with backhand
+[[https://www.youtube.com/embed/vLcyN6ZUlns?rel=0][Video demo]]
+
+Distances are 10, 20, 30 yards.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 90s            |
+|    2 |    2 |    1 | 90s            |
+|    3 |    3 |    1 | 90s            |
+|    4 |    3 |    1 | 90s            |
+
+*** A2. Shuttle with forehand
+[[https://www.youtube.com/embed/hSaaVxxsxB8?rel=0][Video demo]]
+
+Distances are 10, 20, 30 yards.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 90s            |
+|    2 |    2 |    1 | 90s            |
+|    3 |    3 |    1 | 90s            |
+|    4 |    3 |    1 | 90s            |
+
+*** B. Pull and sprint central zone
+
+Central zone is 64m.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 60s            |
+|    2 |    4 |    1 | 60s            |
+|    3 |    4 |    1 | 60s            |
+|    4 |    6 |    1 | 60s            |
+
+** TODO Strength
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:
