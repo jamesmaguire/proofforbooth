@@ -43,4 +43,27 @@ function initPage() {
         }
     }
 
+    const workouts = document.getElementsByClassName('outline-3');
+    for (let i=0; i<workouts.length; i++) {
+        // Make all inactive at startup
+        workouts[i].getElementsByTagName('h3')[0]
+            .parentElement
+            .classList
+            .toggle('inactive');
+
+        // Add toggle on click
+        let h3 = workouts[i].getElementsByTagName('h3')[0];
+        h3.addEventListener('click', function() {
+            this.parentElement
+                .classList.toggle('active');
+            this.parentElement
+                .classList.toggle('inactive');
+        });
+        if (h3.style.height) {
+            h3.style.height = '';
+        } else {
+            h3.style.height = 'calc(1.5em+2em)';
+        }
+    }
+
 }
