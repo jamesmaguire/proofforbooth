@@ -1,17 +1,4 @@
 
-// var collapsibles = document.getElementsByTagName('h3');
-// for (let i=0; i<collapsibles.length; i++) {
-//     collapsibles[i].addEventListner('click', function() {
-//         this.classList.toggle('active');
-//         let content = this;
-//         if (content.style.height) {
-//             content.style.height = 'none';
-//         } else {
-//             content.style.height = content.scrollHeight + 'px';
-//         }
-//     });
-// }
-
 function initPage() {
 
     // Highlight current in schedule
