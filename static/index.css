@@ -1,3 +1,9 @@
+:root {
+  --krankblue: #464e6f;
+  --krankred: #9d0606;
+  --krankyellow: #f5bd5c;
+}
+
 *, ::before, ::after {
   box-sizing: border-box;
   font-family: Sans-serif;
@@ -9,7 +15,7 @@
 
 body {
   min-height: 100vh;
-  background: #464e6f;
+  background: var(--krankblue);
   color: #eee;
 }
 
@@ -48,7 +54,7 @@ h2 {
   
     
   text-shadow: -2px -2px 5px #000, 2px -2px 5px #000, -2px 2px 5px #000, 2px 2px 5px #000;
-  color: #f5bd5c;
+  color: var(--krankyellow);
 }
 
 .outline-3 {
@@ -61,11 +67,14 @@ h2 {
   color: #333;
   border: 2px solid #333;
   
-  min-width: 30ch;
-  min-height: 15ch;
+  min-width: 21rem;
+  min-height: 12rem;
   margin: 2%;
   width: 25vw;
   height: 10vw;
+}
+.currentblock {
+  box-shadow: 0px 0px 15px 0px var(--krankyellow);
 }
 
 h3 {
@@ -75,13 +84,14 @@ h3 {
 
 a {
   font-size: 150%;
-  color: #9d0606;
+  color: var(--krankred);
   text-decoration: none;
-  border-bottom: 2px solid #9d0606;
-  padding-right: 20%;
+  border-bottom: 2px solid var(--krankred);
+  padding-right: 10%;
+  transition: 1s;
 }
 a:hover {
-  text-decoration: underline;
+  padding-right: 20%;
 }
 
 ul {

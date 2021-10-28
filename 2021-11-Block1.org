@@ -1,10 +1,12 @@
-#+title: Nov 2021 - Block 1
+#+title: Block 1
+#+subtitle: November 2021
 #+setupfile: page.setup
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
 #+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
 #+HTML_HEAD: <body onload="initPage();">
 
 # Based on UAP Off-season 1
+[[file:./static/krank-fist.svg]]
 
 * Schedule
 
