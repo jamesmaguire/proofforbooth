@@ -2,6 +2,7 @@
 #+setupfile: page.setup
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/index.css" />
 #+HTML_HEAD: <script type="text/javascript" src="static/index.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
 
 [[file:./static/krank-fist.svg]]
 
