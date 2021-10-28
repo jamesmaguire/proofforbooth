@@ -58,6 +58,9 @@ h2 {
 }
 
 .outline-3 {
+  /* For link behaviou */
+  position: relative;
+  
   display: inline-block;
   float: center;
   text-align: left;
@@ -92,6 +95,14 @@ a {
 }
 a:hover {
   padding-right: 20%;
+}
+.linkspan {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 1;
 }
 
 ul {

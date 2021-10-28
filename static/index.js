@@ -11,15 +11,17 @@ function initPage() {
         let range = parseDateRange(blocks[i]);
         if (range[0] < now && now < range[1]) {
             blocks[i].classList.add('currentblock');
-        } else if (now < range[0]) {
+        }
+        if (now > range[1]) {
             blocks[i].classList.add('pastblock');
         }
     }
 
     // Make block clickable
-    console.log(
-        blocks[1].getElementsByClassName('a')
-    );
+    for (let i=0; i<blocks.length; i++) {
+        blocks[i].getElementsByTagName('a')[0]
+            .innerHTML += '<span class="linkspan"></span>';
+    }
 
 }
 
