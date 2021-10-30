@@ -32,8 +32,29 @@ Weeks:
 - Ensure you are respecting the full rest between sets during SAQ exercises. It will seem like a long time, but it's designed that way for a reason.
 - SAQ workouts are not conditioning. Do not do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
 - If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+- Strength sessions should take about 20 minutes (5min warm up, 15min strength).
+- Feel free to do the strength sessions more than once a week or replace with focused/programmed gym session.
+- The warmup should be performed before all sessions (SAQ/Conditioning/Strength)
 
 * Program
+** Warmup
+*** 1. Jog, 4x10m or longer
+*** 2. Side skipping, 2x15m
+Warm up groin (hip+adductors)
+*** 3. Grapevine with high knees, 2x15m
+Open up groin (hip+adductors)
+*** 4. Backward run with butt kicks, 2x15m
+Engage the hamstrings to bring the feet up
+*** 5. Forward run butt kicks, 2x15m
+Warm up quadriceps and hamstrings
+*** 6. Hands to ground/shoo the chickens, 2x15m
+Engage hamstrings and lower back
+*** 7. Calf stretch, slow pump 5 per leg
+*** 8. Open the gate, 2x15m
+*** 9. Leg swings, 6 per leg
+*** 10. Walking lunge, 8 total
+Engage glutes
+
 ** SAQ 1
 *** A. Non countermovement lateral hop
 [[https://www.youtube.com/embed/Zf17iGdNpaU?rel=0][Video demo]]
@@ -186,7 +207,23 @@ Distance so that it's challenging
 |    3 |    5 | 30s | 90s            |
 |    4 |    6 | 30s | 90s            |
 
-** TODO Strength
+** Strength - Level 1
+
+Strength sessions are based on the Footy First training program. The full pdf manual is available [[file:./static/Footy First - Manual.pdf][here]].
+
+#+attr_html: :class strengthtable
+| Exercise                 | Sets | Reps        | Notes                                                                                                                                |
+|--------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------------------------|
+| Hamstring lower          |    1 | 6           | Keep a straight line from knees through to crown of head. No bending of hips.                                                        |
+| Ball/roller squeeze      |    2 | 5           | 2 seconds contract, 2 seconds hold, 2 second release. Set 1: knees bent. Set 2: legs straight                                        |
+| Side plank hip raise     |    1 | 5 each side | 2 seconds raise, 2 seconds hold, 2 second lower. Keep hips straight.                                                                 |
+| Single leg balance/throw |    1 | 12 each leg | Standing on one leg, throw the fris between you and your partner (6 righties, 6 lefties). Without a partner try pushies to yourself. |
+| Single leg shallow squat |    3 | 6 each leg  | Focus on straight knee path up/down. Depth as comfortable, not <90\deg{}. On third set add frisbee throw with partner if available.  |
+
+
+
+
+
 * Export on save                                                   :noexport:
 ;; Local Variables:
 ;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
