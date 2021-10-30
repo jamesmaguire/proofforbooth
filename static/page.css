@@ -76,6 +76,7 @@ h3 {
   margin-left: -2rem;
   margin-right: -2rem;
   padding-bottom: 1rem;
+  margin-bottom: 2rem;
   padding-top: 1rem;
   cursor: pointer;
 }
@@ -160,4 +161,11 @@ td {
 .thisweek {
   font-weight: bold;
   background: #f002;
+}
+.strengthtable td {
+  border-bottom: 1px solid #aaa;
+}
+.strengthtable td:nth-child(1),
+.strengthtable td:nth-child(4) {
+  text-align: left;
 }
