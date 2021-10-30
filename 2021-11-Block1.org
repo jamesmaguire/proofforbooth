@@ -212,17 +212,13 @@ Distance so that it's challenging
 Strength sessions are based on the Footy First training program. The full pdf manual is available [[file:./static/Footy First - Manual.pdf][here]].
 
 #+attr_html: :class strengthtable
-| Exercise                 | Sets | Reps        | Notes                                                                                                                                |
-|--------------------------+------+-------------+--------------------------------------------------------------------------------------------------------------------------------------|
-| Hamstring lower          |    1 | 6           | Keep a straight line from knees through to crown of head. No bending of hips.                                                        |
-| Ball/roller squeeze      |    2 | 5           | 2 seconds contract, 2 seconds hold, 2 second release. Set 1: knees bent. Set 2: legs straight                                        |
-| Side plank hip raise     |    1 | 5 each side | 2 seconds raise, 2 seconds hold, 2 second lower. Keep hips straight.                                                                 |
-| Single leg balance/throw |    1 | 12 each leg | Standing on one leg, throw the fris between you and your partner (6 righties, 6 lefties). Without a partner try pushies to yourself. |
-| Single leg shallow squat |    3 | 6 each leg  | Focus on straight knee path up/down. Depth as comfortable, not <90\deg{}. On third set add frisbee throw with partner if available.  |
-
-
-
-
+| Exercise                 | Sets | Reps   | Notes                                                                                                                                |
+|--------------------------+------+--------+--------------------------------------------------------------------------------------------------------------------------------------|
+| Hamstring lower          |    1 | 6      | Keep a straight line from knees through to crown of head. No bending of hips.                                                        |
+| Ball/roller squeeze      |    2 | 5      | 2 seconds contract, 2 seconds hold, 2 second release. Set 1: knees bent. Set 2: legs straight                                        |
+| Side plank hip raise     |    1 | 5/side | 2 seconds raise, 2 seconds hold, 2 second lower. Keep hips straight.                                                                 |
+| Single leg balance/throw |    1 | 12/leg | Standing on one leg, throw the fris between you and your partner (6 righties, 6 lefties). Without a partner try pushies to yourself. |
+| Single leg shallow squat |    3 | 6/leg  | Focus on straight knee path up/down. Depth as comfortable, not <90\deg{}. On third set add frisbee throw with partner if available.  |
 
 * Export on save                                                   :noexport:
 ;; Local Variables:
