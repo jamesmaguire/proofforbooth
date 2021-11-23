@@ -34,6 +34,24 @@ Weeks:
 - If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
 
 * Program
+** Warmup
+*** 1. Jog, 4x10m or longer
+*** 2. Side skipping, 2x15m
+Warm up groin (hip+adductors)
+*** 3. Grapevine with high knees, 2x15m
+Open up groin (hip+adductors)
+*** 4. Backward run with butt kicks, 2x15m
+Engage the hamstrings to bring the feet up
+*** 5. Forward run butt kicks, 2x15m
+Warm up quadriceps and hamstrings
+*** 6. Hands to ground/shoo the chickens, 2x15m
+Engage hamstrings and lower back
+*** 7. Calf stretch, slow pump 5 per leg
+*** 8. Open the gate, 2x15m
+*** 9. Leg swings, 6 per leg
+*** 10. Walking lunge, 8 total
+Engage glutes
+
 ** SAQ 1
 *** A. Low squat to scissor jump
 [[https://www.youtube.com/embed/Mf7cZzcCyuc?rel=0][Video demo]]
@@ -167,7 +185,19 @@ Central zone is 64m.
 |    3 |    4 |    1 | 60s            |
 |    4 |    6 |    1 | 60s            |
 
-** TODO Strength
+** Strength - Level 2
+
+Strength sessions are based on the Footy First training program. The full pdf manual is available [[file:./static/Footy First - Manual.pdf][here]].
+
+#+attr_html: :class strengthtable
+| Exercise                      | Sets | Reps   | Notes                                                                                                                                |
+|-------------------------------+------+--------+--------------------------------------------------------------------------------------------------------------------------------------|
+| Hamstring lower               |    2 | 5      | Keep a straight line from knees through to crown of head. No bending of hips.                                                        |
+| Side lying leg lift           |    3 | 5/leg  | Lie on side with top leg bent at hip and knee. Lift 2 seconds, hold 2 seconds, lower 2 seconds.                                      |
+| Side plank hip raise          |    2 | 5/side | 2 seconds raise, 2 seconds hold, 2 second lower. Keep hips straight.                                                                 |
+| Jump forward land on one leg  |    1 | 10/leg | Stand on one foot, jump forward and land on the opposite foot. Increase distance but maintain control of landing.                    |
+| Jump backward land on one leg |    1 | 10/leg | Same as previous, but jump backward                                                                                                  |
+
 * Export on save                                                   :noexport:
 ;; Local Variables:
 ;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
