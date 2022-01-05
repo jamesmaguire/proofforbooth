@@ -14,7 +14,7 @@ This block of training has three days per week:
 
 - Workout 1: SAQ 1 + Conditioning 1
 - Workout 2: SAQ 2 + Conditioning 2
-- Workout 3: Strength 1
+- Workout 3: Strength 2
   
 Weeks:
 
