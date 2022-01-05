@@ -1,0 +1,144 @@
+#+title: Block 3
+#+subtitle: January 2022
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+# Based of UAP In-season 1 (SAQ), In-season 1 (Cond.)
+[[file:./static/krank-fist.svg]]
+
+* Schedule
+
+This block of training has three days per week:
+
+- Workout 1: SAQ 1 + Conditioning 1
+- Workout 2: SAQ 2 + Conditioning 2
+- Workout 3: Strength 3
+  
+Weeks:
+
+#+attr_html: :id scheduletable
+| Week | Start of week   | Workouts |
+|------+-----------------+----------|
+|    1 | 8 January 2022  | 1, 2, 3  |
+|    2 | 15 January 2022 | 1, 2, 3  |
+|    3 | 22 January 2022 | 1, 2, 3  |
+|    4 | 29 January 2022 | 1, 2, 3  |
+
+* General principles
+
+- SAQ (speed agility quickness) + Conditioning sessions should take around 45 minutes.
+- Ensure you are respecting the full rest between sets during SAQ exercises. It will seem like a long time, but it's designed that way for a reason.
+- SAQ workouts are not conditioning. Do not do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
+- If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+
+* Program
+** Warmup
+*** 1. Jog, 4x10m or longer
+*** 2. Side skipping, 2x15m
+Warm up groin (hip+adductors)
+*** 3. Grapevine with high knees, 2x15m
+Open up groin (hip+adductors)
+*** 4. Backward run with butt kicks, 2x15m
+Engage the hamstrings to bring the feet up
+*** 5. Forward run butt kicks, 2x15m
+Warm up quadriceps and hamstrings
+*** 6. Hands to ground/shoo the chickens, 2x15m
+Engage hamstrings and lower back
+*** 7. Calf stretch, slow pump 5 per leg
+*** 8. Open the gate, 2x15m
+*** 9. Leg swings, 6 per leg
+*** 10. Walking lunge, 8 total
+Engage glutes
+
+** SAQ 1
+*** A. Mountain climber
+[[https://www.youtube.com/embed/EujScxvh4Uw?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps         | Rest b/wn sets |
+|------+------+--------------+----------------|
+|    1 |    3 | 15s          | 60s            |
+|    2 |    3 | 15s          | 60s            |
+|    3 |    3 | 15s, cut 10m | 60s            |
+|    4 |    3 | 15s, cut 10m | 60s            |
+
+*** B. Forward Frog Jumps
+[[https://www.youtube.com/embed/nhDXP6h33qM?rel=0][Video demo]]
+
+Purpose of this drill is to get full extension of ankles, knees and hips. Propel explosively upward and a little bit forward.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    6 | 120s           |
+|    2 |    2 |    6 | 120s           |
+|    3 |    2 |    6 | 120s           |
+|    4 |    2 |    6 | 120s           |
+
+** Conditioning 1
+*** A. 80% sprint
+
+Keep to 80%, not 100%. Maintain good running form throughout. Once you hit min reps, stop once form begins to go bad.
+
+#+attr_html: :class reptable
+| Week |  Sets | Reps | Rest b/wn sets |
+|------+-------+------+----------------|
+|    1 | 10-16 | 20s  | 40s walk       |
+|    2 | 12-18 | 20s  | 40s walk       |
+|    3 | 14-20 | 20s  | 40s walk       |
+|    4 | 16-22 | 20s  | 40s walk       |
+
+** SAQ 2
+*** A. Wide fast foot
+[[https://www.youtube.com/embed/aJkw2WK-gA4?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets       | Reps | Rest b/wn sets |
+|------+------------+------+----------------|
+|    1 | 2 each leg | 15s  | 30s            |
+|    2 | 2 each leg | 15s  | 30s            |
+|    3 | 2 each leg | 15s  | 30s            |
+|    4 | 2 each leg | 15s  | 30s            |
+
+*** B. Side zig-zag grid
+[[https://www.youtube.com/embed/MibJOtAmwy4?rel=0][Video demo 1]]
+[[https://www.youtube.com/embed/rQeNk__Tvzw?rel=0][Video demo 2]]
+
+#+attr_html: :class reptable
+| Week | Sets        | Reps | Rest b/wn sets |
+|------+-------------+------+----------------|
+|    1 | 1 each foot | 15s  | 120s           |
+|    2 | 1 each foot | 15s  | 120s           |
+|    3 | 2 each foot | 20s  | 120s           |
+|    4 | 2 each foot | 20s  | 120s           |
+
+** Conditioning 2
+*** A. 160 shuttle (4x40m)
+
+#+attr_html: :class reptable
+| Week | Sets | Reps  | Rest b/wn sets |
+|------+------+-------+----------------|
+|    1 |    5 | 4x40m | 90s            |
+|    2 |    6 | 4x40m | 90s            |
+|    3 |    5 | 4x40m | 90s            |
+|    4 |    6 | 4x40m | 90s            |
+
+** Strength - Level 3
+
+Strength sessions are based on the Footy First training program. The full pdf manual is available [[file:./static/Footy First - Manual.pdf][here]].
+
+#+attr_html: :class strengthtable
+| Exercise                    | Sets | Reps   | Notes                                                                                                                                                          |
+|-----------------------------+------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hamstring lower             |    2 | 8      | Keep a straight line from knees through to crown of head. No bending of hips.                                                                                  |
+| Running man                 |    2 | 15/leg | Stand on one leg with arm raised. Squat keeping heel on the ground, other leg hovers behind. Raise with alternate hand rising above head. Tempo 2s down, 2s up |
+| Side plank side-to-side     |    1 | 5      | Start in plank, roll to side plank, hold for 1s, then to plank, hold 1s, then to other side, continue. 1 rep is full cycle.                                    |
+| Single leg forward and back |    1 | 20/leg | Stand on one foot, jump forward and land on the opposite foot. Increase distance but maintain control of landing.                                              |
+| Run forward, jump and land  |    1 | 10/leg | Using 3 step run up, jump off one leg and land on other                                                                                                        |
+
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:
