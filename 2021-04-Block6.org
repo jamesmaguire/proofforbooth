@@ -1,0 +1,159 @@
+#+title: Block 6
+#+subtitle: April 2022
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+# Based of UAP Taper
+[[file:./static/krank-fist.svg]]
+
+* Schedule
+
+This block of training has three days per week:
+
+- Workout 1: SAQ 1 + Conditioning 1
+- Workout 2: SAQ 2 + Conditioning 2
+  
+Weeks:
+
+#+attr_html: :id scheduletable
+| Week | Start of week | Workouts |
+|------+---------------+----------|
+|    1 | 2 April 2022 | 1, 2, 3  |
+|    2 | 9 April 2022 | 1, 2, 3  |
+|    3 | 16 April 2022 | 1, 2, 3  |
+
+* General principles
+
+- In this phase, your primary goal is to feel both physically and psychologically prepared for your most important tournament. Trust your training. You will be dramatically decreasing your volume of work. It is important to realize that you've already done the work necessary. Gains in performance are now going to come from complete recovery, not from training.
+- Workouts will be done at the same intensity. Sprinting and lifting at high intensity are still important for two reasons. 1. You want to keep your mobility. Being inactive or not sprinting may cause a temporary loss of movement quality. 2. We want to keep the nervous system primed for peak performance. High-intensity movements keep the nervous system sharp. 
+
+* Program
+** Warmup
+*** 1. Jog, 4x10m or longer
+*** 2. Side skipping, 2x15m
+Warm up groin (hip+adductors)
+*** 3. Grapevine with high knees, 2x15m
+Open up groin (hip+adductors)
+*** 4. Backward run with butt kicks, 2x15m
+Engage the hamstrings to bring the feet up
+*** 5. Forward run butt kicks, 2x15m
+Warm up quadriceps and hamstrings
+*** 6. Hands to ground/shoo the chickens, 2x15m
+Engage hamstrings and lower back
+*** 7. Calf stretch, slow pump 5 per leg
+*** 8. Open the gate, 2x15m
+*** 9. Leg swings, 6 per leg
+*** 10. Walking lunge, 8 total
+Engage glutes
+
+** SAQ 1
+*** A. 5-10-5 Pro-lateral drill
+[[https://www.youtube.com/embed/lIq87ZhL8bE?rel=0][Video demo]]
+
+Hips forward for first five then hips open for longer length
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    4 |    1 | 90s            |
+|    2 |    3 |    1 | 90s            |
+|    3 |    2 |    1 | 90s            |
+
+*** B. Zig zag sprint
+[[https://www.youtube.com/embed/YdgYleKenGM?rel=0][Video demo]]
+
+Using the jab step
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    4 |    1 | 90s            |
+|    2 |    3 |    1 | 90s            |
+|    3 |    2 |    1 | 90s            |
+
+** Conditioning 1
+*** A. 70% sprint
+
+Sprint 30sec, rest 30sec
+
+#+attr_html: :class reptable
+| Week |  Sets | Reps | Rest b/wn sets |
+|------+-------+------+----------------|
+|    1 | 15-20 |    1 | 30s            |
+|    2 | 15-20 |    1 | 30s            |
+|    3 | 15-20 |    1 | 30s            |
+
+** SAQ 2
+*** A. Counter-movement lateral hops
+[[https://www.youtube.com/embed/zsikQYzW1xw?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps             | Rest b/wn sets |
+|------+------+------------------+----------------|
+|    1 |    4 | 3 each direction | 60s            |
+|    2 |    3 | 3 each direction | 60s            |
+|    3 |    2 | 3 each direction | 60s            |
+
+*** B. 3-point start
+[[https://www.youtube.com/embed/j76bJSWSKzg?rel=0][Video demo 1]]
+
+Hips up, feet closer to hands than you might think. Close to falling over with tension in hamstrings.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    4 | 15m  | 60s            |
+|    2 |    3 | 15m  | 60s            |
+|    3 |    2 | 15m  | 60s            |
+
+** Conditioning 2
+*** A1. Shuttle with throwing - Backhand
+[[https://www.youtube.com/embed/vLcyN6ZUlns?rel=0][Video Demo]]
+
+Distances are 10, 20, 30 yards
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 90s            |
+|    2 |    1 |    1 | 90s            |
+|    3 |    1 |    1 | 90s            |
+
+*** A2. Shuttle with throwing - Flick
+[[https://www.youtube.com/embed/hSaaVxxsxB8?rel=0][Video Demo]]
+
+Distances are 10, 20, 30 yards
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 90s            |
+|    2 |    1 |    1 | 90s            |
+|    3 |    1 |    1 | 90s            |
+
+*** B1. Skater hops with cone touch
+[[https://www.youtube.com/embed/sRYnYJNCYpU?rel=0][Video Demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 | 30s  | 60s            |
+|    2 |    2 | 30s  | 60s            |
+|    3 |    1 | 30s  | 60s            |
+
+*** B2. Shuffle
+[[https://www.youtube.com/embed/hS3efBLyb-w?rel=0][Video Demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 | 10m  | 60s            |
+|    2 |    2 | 10m  | 60s            |
+|    3 |    1 | 10m  | 60s            |
+
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:

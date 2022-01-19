@@ -1,0 +1,170 @@
+#+title: Block 5
+#+subtitle: March 2022
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+# Based of UAP In-season 3 (SAQ), In-season 3 (Cond.)
+[[file:./static/krank-fist.svg]]
+
+* Schedule
+
+This block of training has three days per week:
+
+- Workout 1: SAQ 1 + Conditioning 1
+- Workout 2: SAQ 2 + Conditioning 2
+- Workout 3: Strength 5
+  
+Weeks:
+
+#+attr_html: :id scheduletable
+| Week | Start of week | Workouts |
+|------+---------------+----------|
+|    1 | 5 March 2022  | 1, 2, 3  |
+|    2 | 12 March 2022 | 1, 2, 3  |
+|    3 | 19 March 2022 | 1, 2, 3  |
+|    4 | 26 March 2022 | 1, 2, 3  |
+
+* General principles
+
+- SAQ (speed agility quickness) + Conditioning sessions should take around 45 minutes.
+- Ensure you are respecting the full rest between sets during SAQ exercises. It will seem like a long time, but it's designed that way for a reason.
+- SAQ workouts are not conditioning. Do not do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
+- If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+
+* Program
+** Warmup
+*** 1. Jog, 4x10m or longer
+*** 2. Side skipping, 2x15m
+Warm up groin (hip+adductors)
+*** 3. Grapevine with high knees, 2x15m
+Open up groin (hip+adductors)
+*** 4. Backward run with butt kicks, 2x15m
+Engage the hamstrings to bring the feet up
+*** 5. Forward run butt kicks, 2x15m
+Warm up quadriceps and hamstrings
+*** 6. Hands to ground/shoo the chickens, 2x15m
+Engage hamstrings and lower back
+*** 7. Calf stretch, slow pump 5 per leg
+*** 8. Open the gate, 2x15m
+*** 9. Leg swings, 6 per leg
+*** 10. Walking lunge, 8 total
+Engage glutes
+
+** SAQ 1
+*** A. 3 step approach jump
+[[https://www.youtube.com/embed/ldBS5OCXVTk?rel=0][Video demo]]
+
+Reach up with opposite arm
+
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn sets |
+|------+------+------------+----------------|
+|    1 |    6 | 1 each leg | 60s            |
+|    2 |    6 | 1 each leg | 60s            |
+|    3 |    6 | 1 each leg | 60s            |
+|    4 |    6 | 1 each leg | 60s            |
+
+*** B. Low run to sprint
+[[https://www.youtube.com/embed/KtrjXwQuqnU?rel=0][Video demo]]
+
+Stay in athletic position moving on balls of feet
+
+#+attr_html: :class reptable
+| Week | Sets | Reps       | Rest b/wn sets |
+|------+------+------------+----------------|
+|    1 |    5 | 1, cut 15m | 90s            |
+|    2 |    5 | 1, cut 15m | 90s            |
+|    3 |    5 | 1, cut 20m | 90s            |
+|    4 |    5 | 1, cut 20m | 90s            |
+
+** Conditioning 1
+*** A. 5-10-5, 5 Frog jump
+[[https://www.youtube.com/embed/57fJcrpPif8?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    3 |    1 | 90s            |
+|    2 |    3 |    1 | 90s            |
+|    3 |    4 |    1 | 90s            |
+|    4 |    4 |    1 | 90s            |
+
+*** B. Sprint-skip-run-shuffle
+[[https://www.youtube.com/embed/aA4Vq5-V2Rw?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    3 |    1 | 60s            |
+|    2 |    3 |    1 | 60s            |
+|    3 |    4 |    1 | 60s            |
+|    4 |    4 |    1 | 60s            |
+
+** SAQ 2
+*** Lateral Shuffle to Sprint
+[[https://www.youtube.com/embed/hX3TKqIFCbM?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps                    | Rest b/wn sets |
+|------+------+-------------------------+----------------|
+|    1 |    6 | 8m shuffle, 15m sprint  | 90s            |
+|    2 |    6 | 8m shuffle, 15m sprint  | 90s            |
+|    3 |    6 | 10m shuffle, 20m sprint | 90s            |
+|    4 |    6 | 10m shuffle, 20m sprint | 90s            |
+
+*** Single leg line hops
+[[https://www.youtube.com/embed/DA-h-gnDcNM?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps  | Rest b/wn sets |
+|------+------+-------+----------------|
+|    1 |    4 | 1, 5m | 90s            |
+|    2 |    4 | 1, 5m | 90s            |
+|    3 |    6 | 1, 8m | 90s            |
+|    4 |    6 | 1, 6m | 90s            |
+
+** Conditioning 2
+Complete 1 rep A1, 60 seconds rest, 1 rep A2, 120 seconds rest. Repeat 3 or 4 times.
+
+*** A1. 160 Shuttle (4x40m)
+[[https://www.youtube.com/embed/cpAnh4vAmrA?rel=0][Video Demo]]
+
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    1 |    3 | 90s            |
+|    2 |    1 |    3 | 90s            |
+|    3 |    1 |    4 | 90s            |
+|    4 |    1 |    4 | 90s            |
+
+*** A2. Kill drill - Outside throws
+[[https://www.youtube.com/embed/Oy1AoKkqJjM?rel=0][Video Demo]]
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    1 |    3 | n/a            |
+|    2 |    1 |    3 | n/a            |
+|    3 |    1 |    4 | n/a            |
+|    4 |    1 |    4 | n/a            |
+
+** Strength - Level 5
+
+Strength sessions are based on the Footy First training program. The full pdf manual is available [[file:./static/Footy First - Manual.pdf][here]].
+
+#+attr_html: :class strengthtable
+| Exercise                             |        Sets |  Reps | Notes                                                                                            |   |
+|--------------------------------------+-------------+-------+--------------------------------------------------------------------------------------------------+---|
+| Hamstring lower                      |           2 |    12 | Keep a straight line from knees through to crown of head. No bending of hips.                    |   |
+| Body lift                            |           3 |     5 | Lie on side with top leg held up or on chair. Lift bottom leg and hips off ground and hold 2 sec |   |
+| Side-to-side plank with leg lift     |           1 |     5 | Side plank, lift top leg hold 5s, front plank hold 5s, other side plank lift leg 5sec = 1 rep    |   |
+| Run forward, jump and recover to run |           1 | 8/leg | Using 3 step run up, jump off one leg and land on other with a 5 run following                   |   |
+| 45 deg cut                           | 1 each side |    12 | Run 10m then chop step at 45deg running through an extra 5m                                      |   |
+
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:

@@ -1,0 +1,187 @@
+#+title: Block 4
+#+subtitle: February 2022
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+# Based of UAP In-season 2 (SAQ), In-season 2 (Cond.)
+[[file:./static/krank-fist.svg]]
+
+* Schedule
+
+This block of training has three days per week:
+
+- Workout 1: SAQ 1 + Conditioning 1
+- Workout 2: SAQ 2 + Conditioning 2
+- Workout 3: Strength 4
+  
+Weeks:
+
+#+attr_html: :id scheduletable
+| Week | Start of week    | Workouts |
+|------+------------------+----------|
+|    1 | 5 February 2022  | 1, 2, 3  |
+|    2 | 12 February 2022 | 1, 2, 3  |
+|    3 | 19 February 2022 | 1, 2, 3  |
+|    4 | 26 February 2022 | 1, 2, 3  |
+
+* General principles
+
+- SAQ (speed agility quickness) + Conditioning sessions should take around 45 minutes.
+- Ensure you are respecting the full rest between sets during SAQ exercises. It will seem like a long time, but it's designed that way for a reason.
+- SAQ workouts are not conditioning. Do not do more than what is listed. You should feel fully recovered between reps and sets. If not, add more rest. No big deal.
+- If doing two types of sessions on the same day, SAQ should be done before lifting or conditioning. Lifting should be done before conditioning.
+
+* Program
+** Warmup
+*** 1. Jog, 4x10m or longer
+*** 2. Side skipping, 2x15m
+Warm up groin (hip+adductors)
+*** 3. Grapevine with high knees, 2x15m
+Open up groin (hip+adductors)
+*** 4. Backward run with butt kicks, 2x15m
+Engage the hamstrings to bring the feet up
+*** 5. Forward run butt kicks, 2x15m
+Warm up quadriceps and hamstrings
+*** 6. Hands to ground/shoo the chickens, 2x15m
+Engage hamstrings and lower back
+*** 7. Calf stretch, slow pump 5 per leg
+*** 8. Open the gate, 2x15m
+*** 9. Leg swings, 6 per leg
+*** 10. Walking lunge, 8 total
+Engage glutes
+
+** SAQ 1
+*** A. Low squat to scissor jump to sprint
+[[https://www.youtube.com/embed/077_AiKQD9E?rel=0][Video demo]]
+
+Concentrate on knees up during the low squat jump
+
+#+attr_html: :class reptable
+| Week | Sets | Reps               | Rest b/wn sets |
+|------+------+--------------------+----------------|
+|    1 |    6 | 1 per leg, 15m cut | 60s            |
+|    2 |    6 | 1 per leg, 15m cut | 60s            |
+|    3 |    6 | 1 per leg, 20m cut | 60s            |
+|    4 |    6 | 1 per leg, 20m cut | 60s            |
+
+*** B. Tuck Jump
+[[https://www.youtube.com/embed/uCgaMLjr20I?rel=0][Video demo]]
+
+Knees up to chest (not chest down to knees). Use arms to increase height. Land softly and in same spot.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    6 | 90s            |
+|    2 |    2 |    6 | 90s            |
+|    3 |    2 |    6 | 90s            |
+|    4 |    2 |    6 | 90s            |
+
+** Conditioning 1
+*** A. Extended Pro-Lateral
+[[https://www.youtube.com/embed/MBXRV2E0owc?rel=0][Video demo]]
+
+Sprints of various lengths with changes of direction. Distances are 5, 10, 15, 20, 10 yards (video demo shows 5, 10, 15, 20).
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    3 |    1 | 90s            |
+|    2 |    3 |    1 | 90s            |
+|    3 |    3 |    1 | 90s            |
+|    4 |    3 |    1 | 90s            |
+
+*** B. Zig-Zag Sprint
+
+Using the jab step. 6 cones 5-7 yards apart and offset
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    3 |    1 | 90s            |
+|    2 |    3 |    1 | 90s            |
+|    3 |    3 |    1 | 90s            |
+|    4 |    3 |    1 | 90s            |
+
+** SAQ 2
+*** A. Jab Step Agility to Cut
+[[https://www.youtube.com/embed/_6k3XvTzuak?rel=0][Video demo]]
+
+#+attr_html: :class reptable
+| Week | Sets             | Reps | Rest b/wn sets |
+|------+------------------+------+----------------|
+|    1 | 2 each direction | 15m  | 90s            |
+|    2 | 2 each direction | 15m  | 90s            |
+|    3 | 2 each direction | 20m  | 90s            |
+|    4 | 2 each direction | 20m  | 90s            |
+
+*** B. Waltz Agility to Cut
+[[https://www.youtube.com/embed/GD_f0hbzGcs?rel=0][Video demo 1]]
+
+#+attr_html: :class reptable
+| Week | Sets             | Reps | Rest b/wn sets |
+|------+------------------+------+----------------|
+|    1 | 2 each direction | 15m  | 90s            |
+|    2 | 2 each direction | 15m  | 90s            |
+|    3 | 2 each direction | 20m  | 90s            |
+|    4 | 2 each direction | 20m  | 90s            |
+
+** Conditioning 2
+*** A. Shuttle with throwing - Backhand
+[[https://www.youtube.com/embed/vLcyN6ZUlns?rel=0][Video Demo]]
+
+Distances are 10, 20, 30 yards
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 90s            |
+|    2 |    2 |    1 | 90s            |
+|    3 |    2 |    1 | 90s            |
+|    4 |    2 |    1 | 90s            |
+
+*** B. Shuttle with throwing - Flick
+[[https://www.youtube.com/embed/hSaaVxxsxB8?rel=0][Video Demo]]
+
+Distances are 10, 20, 30 yards
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 |    1 | 90s            |
+|    2 |    2 |    1 | 90s            |
+|    3 |    2 |    1 | 90s            |
+|    4 |    2 |    1 | 90s            |
+
+*** C. Marking
+[[https://www.youtube.com/embed/AYjPT2s6wmc?rel=0][Video Demo]]
+
+Length of two stall outs.
+
+#+attr_html: :class reptable
+| Week | Sets | Reps | Rest b/wn sets |
+|------+------+------+----------------|
+|    1 |    2 | 20s  | 60s            |
+|    2 |    2 | 20s  | 60s            |
+|    3 |    2 | 20s  | 60s            |
+|    4 |    2 | 20s  | 60s            |
+
+** Strength - Level 4
+
+Strength sessions are based on the Footy First training program. The full pdf manual is available [[file:./static/Footy First - Manual.pdf][here]].
+
+#+attr_html: :class strengthtable
+| Exercise                          |        Sets |   Reps | Notes                                                                                                                                                          |   |
+|-----------------------------------+-------------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------+---|
+| Hamstring lower                   |           2 |     10 | Keep a straight line from knees through to crown of head. No bending of hips.                                                                                  |   |
+| Ball/roller squeeze with leg lift |           2 |      5 | 2 seconds contract, 2 seconds hold, 2 second release. Set 1: knees bent. Set 2: legs straight                                                                  |   |
+| Side plank with arm+leg lift      | 1 each side |      5 | Side plank raising both arm and leg, hold for 5 sec, down and hold for 3 sec                                                                                   |   |
+| Run forward, jump and land        |           1 | 10/leg | Using 3 step run up, jump off one leg and land on other                                                                                                        |   |
+| 45 deg cut                        | 1 each side |     10 | Run 10m then chop step at 45deg running through an extra 5m                                                                                                    |   |
+
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:
