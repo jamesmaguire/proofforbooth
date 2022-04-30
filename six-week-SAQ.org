@@ -1,0 +1,275 @@
+#+title: 6 week SAQ program
+#+setupfile: page.setup
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/sixweek.css" />
+#+HTML_HEAD: <script type="text/javascript" src="static/page.js"></script>
+#+HTML_HEAD: <body onload="initPage();">
+
+# Based on UAP Off-season 1
+[[file:./static/krank-fist.svg]]
+
+* Schedule
+[[https://workouts.alexandjames.com/uap-pdfs/6week.pdf][Schedule as pdf]]
+
+** Week 1
+| Day | SAQ 1                          | SAQ 2                            | Conditioning                          |
+|-----+--------------------------------+----------------------------------+---------------------------------------|
+|   1 | Bent over run - 2 sets, 2 reps | Gallop 30 yards - 2 sets, 2 reps | 80/20 intervals: test                 |
+|   2 | Fast feet - 3x10 seconds       | Lateral fast feet - 3x10 seconds | Skater hops - 3-4x 30sec on 90sec off |
+|   3 |                                |                                  | 80/20 intervals: test-2               |
+|   4 | Bent over run - 2 sets, 2 reps | Gallop 30 yards - 2 sets, 2 reps | Skater hops - 3-4x 30sec on 90sec off |
+|   5 | Fast feet - 3x10 seconds       | Lateral fast feet - 3x10 seconds | 80/20 intervals: test                 |
+|   6 | Active recovery                |                                  |                                       |
+
+** Week 2
+| Day | SAQ 1                          | SAQ 2                            | Conditioning                          |
+|-----+--------------------------------+----------------------------------+---------------------------------------|
+|   1 | Bent over run - 2 sets, 2 reps | Gallop 30 yards - 2 sets, 2 reps | 80/20 intervals: test-2               |
+|   2 | Fast feet - 3x10 seconds       | Lateral fast feet - 3x10 seconds | Skater hops - 4-5x 30sec on 90sec off |
+|   3 |                                |                                  | 80/20 intervals: test                 |
+|   4 | Bent over run - 2 sets, 2 reps | Gallop 30 yards - 2 sets, 2 reps | 150 shuttles - 4 reps, 60sec rest     |
+|   5 | Fast feet - 3x10 seconds       | Lateral fast feet - 3x10 seconds | 80/20 intervals: test+2               |
+|   6 | Active recovery                |                                  |                                       |
+
+** Week 3
+| Day | SAQ 1                                         | SAQ 2                          | Conditioning                          |
+|-----+-----------------------------------------------+--------------------------------+---------------------------------------|
+|   1 | 3s fast feet to 5 step accel - 2 sets, 4 reps | 3 point start - 2 sets, 2 reps | 80/20 intervals: test                 |
+|   2 | Jab step - 1 set, 4 reps                      | 5-10 drill - 2 sets, 2 reps    | Skater hops - 5-6x 30sec on 90sec off |
+|   3 |                                               |                                | 80/20 intervals: test+2               |
+|   4 | 3s fast feet to 5 step accel - 2 sets, 4 reps | 3 point start - 2 sets, 2 reps | 150 shuttles - 5 reps, 60sec rest     |
+|   5 | Jab step - 1 set, 4 reps                      | 5-10 drill - 2 sets, 2 reps    | 80/20 intervals: test+4               |
+|   6 | Active recovery                               |                                |                                       |
+
+** Week 4
+| Day | SAQ 1                                         | SAQ 2                          | Conditioning                          |
+|-----+-----------------------------------------------+--------------------------------+---------------------------------------|
+|   1 | 3s fast feet to 5 step accel - 2 sets, 4 reps | 3 point start - 2 sets, 2 reps | 80/20 intervals: test+2               |
+|   2 | Jab step - 1 set, 4 reps                      | 5-10 drill - 2 sets, 2 reps    | Skater hops - 5-6x 30sec on 90sec off |
+|   3 |                                               |                                | 80/20 intervals: test+4               |
+|   4 | 3s fast feet to 5 step accel - 2 sets, 4 reps | 3 point start - 2 sets, 2 reps | 150 shuttles - 6 reps, 60sec rest     |
+|   5 | Jab step - 1 set, 4 reps                      | 5-10 drill - 2 sets, 2 reps    | 80/20 intervals: test+5               |
+|   6 | Active recovery                               |                                |                                       |
+
+** Week 5
+| Day | SAQ 1                                | SAQ 2                                                                    | Conditioning                                                           |
+|-----+--------------------------------------+--------------------------------------------------------------------------+------------------------------------------------------------------------|
+|   1 | 5 forward frog jumps - 1 set, 4 reps | 3 step approach jump - 3 sets, 2 reps each leg                           | 80/20 intervals: test+4                                                |
+|   2 | Waltz step to cut - 2 sets, 2 reps   | Zig zag sprint - 3 sets, 2 reps jab step turns + 2 reps waltz step turns | Zigzag sprints - 2 sets 4 reps 2min rest between set, 45s between reps |
+|   3 |                                      |                                                                          | 80/20 intervals: test+6                                                |
+|   4 | 5 forward frog jumps - 1 set, 4 reps | 3 step approach jump - 3 sets, 2 reps each leg                           | 150 shuttles - 6 reps, 60sec rest                                                                       |
+|   5 | Waltz step to cut - 2 sets, 2 reps   | Zig zag sprint - 3 sets, 2 reps jab step turns + 2 reps waltz step turns | 80/20 intervals: test+8                                                |
+|   6 | Active recovery                      |                                                                          |                                                                        |
+
+** Week 6
+| Day | SAQ 1                                | SAQ 2                                                                    | Conditioning                                                          |
+|-----+--------------------------------------+--------------------------------------------------------------------------+-----------------------------------------------------------------------|
+|   1 | 5 forward frog jumps - 1 set, 4 reps | 3 step approach jump - 3 sets, 2 reps each leg                           | 80/20 intervals: test+6                                               |
+|   2 | Waltz step to cut - 2 sets, 2 reps   | Zig zag sprint - 3 sets, 2 reps jab step turns + 2 reps waltz step turns | Zigzag sprints - 2 sets 4 reps 90s rest between set, 45s between reps |
+|   3 |                                      |                                                                          | 80/20 intervals: test+8                                               |
+|   4 | 5 forward frog jumps - 1 set, 4 reps | 3 step approach jump - 3 sets, 2 reps each leg                           | 150 shuttles - 7 reps, 60sec rest                                     |
+|   5 | Waltz step to cut - 2 sets, 2 reps   | Zig zag sprint - 3 sets, 2 reps jab step turns + 2 reps waltz step turns | 80/20 intervals: test+10                                               |
+|   6 | Active recovery                      |                                                                          |                                                                       |
+
+* Exercise descriptions
+** Warmup
+If you're not already using a dynamic warm-up, use this one as a good
+place to start. A good warm-up generally has three parts:
+
+- Part 1 focuses on increasing blood flow with moderate intensity
+  movements.
+- Part 2 uses mobility exercises to take the joints through a full
+  range of motion and to help athletes establish good movement
+  patterns.
+- Part 3 is about exciting the nervous system and is the most
+  important part of getting ready to play.
+
+*** Part 1
+1. Run at 60% speed to half field
+2. Backwards run with large steps half field.
+3. Run at 60% speed to half field
+4. [[https://www.youtube.com/embed/luGia1b-9eo?rel=0][Backward skip/shuffle]] (40 yards) 
+5. Casual (low intensity) skip to half field.
+6. [[https://www.youtube.com/embed/uoU3FrWvCvw?rel=0][Low intensity shuffle]] half field. Change direction the athlete is facing every four steps.
+
+*** Part 2
+1. [[https://www.youtube.com/embed/IgTbR4PtY6w?rel=0][Lunges]]; done with a twist or a reach
+2. [[https://www.youtube.com/embed/Z3Zk7jxJ0kw?rel=0][High Knee Hugs]]
+3. [[https://www.youtube.com/embed/_oxu_UNGnXI?rel=0][Figure 4 Hugs]]
+4. [[https://www.youtube.com/embed/MvahyT8y90U?rel=0][Drinking Bird]]
+5. [[https://www.youtube.com/embed/7OyY73Vl5AI?rel=0][Walking Quad Stretch]]
+6. [[https://www.youtube.com/embed/DsDOGpx2exg?rel=0][Over Unders]] (3-5 times each direction)
+7. [[https://www.youtube.com/embed/ySGckEct_QI?rel=0][Standing T-Spine Rotation]] (5 rotations each side)
+8. [[https://www.youtube.com/embed/ck16SRln8Kc?rel=0][Penguin Walk]] (about 10 yards forward and 10 yards backward)
+
+*** Part 3
+All exercises should be done for about 15 yards unless otherwise
+noted. Allow some rest between exercises so that you can move at high
+intensity with quick, light feet. The purpose here is NOT to elevate
+your heart rate, but to prepare your nervous system to recruit the
+maximum number of fast twitch muscle fibers as quickly as possible.
+
+1. [[https://www.youtube.com/embed/4tnxvHbIjVs?rel=0][Cycle kicks]]
+2. [[https://www.youtube.com/embed/LP2iJZJ_Fek?rel=0][Lateral high knee skip]]
+3. [[https://www.youtube.com/embed/-3vo1XCSUpU?rel=0][Backwards run]]
+4. [[https://www.youtube.com/embed/6dBXyLSqN4Y?rel=0][Lateral skips]]
+5. [[https://www.youtube.com/embed/v46SaKqPtjc?rel=0][Falling Leaf]]
+6. [[https://www.youtube.com/embed/yM3hAvxOIao?rel=0][Leprechaun Skips]]
+
+** Speed (week 1-2)
+*** Bent over lean, fall, run
+[[https://www.youtube.com/embed/l1SbPrtrbD4?rel=0][Video demo]]
+
+- feet should be relatively close together
+- hip and knee angle are about 20 degrees
+- glutes of forward leg should feel loaded up and ready to fire when beginning the fall portion of the exercise
+
+*** Gallop
+[[https://www.youtube.com/embed/08iJZBUfGcA?rel=0][Video demo]]
+
+- Repeatedly leap off the same leg as high and as far as possible
+- Use your arms for momentum
+- 30 yards each leg
+
+*** Fast feet
+[[https://www.youtube.com/embed/yWeRXvj4Q8c?rel=0][Video demo]]
+
+- center of mass should be between your feet
+- you can use a cone or line to provide some visual feedback about your ability to stay in the same location but try to avoid looking too much at your feet
+
+*** Lateral fast feet
+[[https://www.youtube.com/embed/9ru8eiEput8?rel=0][Video demo]]
+
+- center of mass stays approximately over the cone
+- inside foot touches the ground very lightly, mostly for balance
+- aim for speed, rhythm, and control
+
+** Speed (week 3-4)
+*** Fast feet to five step acceleration
+[[https://www.youtube.com/embed/hZcFe5qG-OQ?rel=0][Video demo]]
+
+- about three seconds of light fast feet, then explode out and
+  accelerate for 5 steps
+- attempt to get up to full speed in five steps
+
+*** Three point start
+[[https://www.youtube.com/embed/j76bJSWSKzg?rel=0][Video demo]]
+
+- Hips up. Feet should be closer to hands than you might think.
+- Lean over the hand on the ground.&nbsp; You should feel that you are
+  close to falling over.
+- You should feel some tension in the hamstrings like you are a spring
+  ready to bounce.
+- Accelerate as explosively as possible out of the starting position.
+
+*** Jab step agility
+[[https://www.youtube.com/embed/pESWXL27LwY?rel=0][Video demo (slow)]]
+[[https://www.youtube.com/embed/zmafY8nYl50?rel=0][Video demo (full
+speed)]]
+
+
+- Works on quick feet, lateral motion, and change of direction.
+- Center of mass should remain at about the same height as the feet
+  move underneath
+
+Practice the movement slowly to understand the footwork pattern before
+working on speed.
+
+- aim for both speed and accuracy of foot placement
+- center of mass should deviate equally to each side of the line
+- keep your head up, not looking at your feet
+
+*** 5-10 drill
+[[https://www.youtube.com/embed/3TDsG76rx_E?rel=0][Video demo]]
+
+- first five yards hips are NOT fully committed. hips are diagonal to
+  the line of the cones
+- coming out of the turn, the outside foot crosses over, pointing the
+  hips parallel to the line of the cone (aka hips face the direction
+  you want to move and are fully committed)
+
+** Speed (week 5-6)
+*** Forward frog jumps
+[[https://www.youtube.com/embed/nhDXP6h33qM?rel=0][Video demo]]
+
+- the purpose of this drill is to get full extension of ankles, knees,
+  and hips
+- propel yourself explosively upward and a little bit forward
+
+*** Three step approach jumps
+[[https://www.youtube.com/embed/ldBS5OCXVTk?rel=0][Video demo]]
+
+- Reach up with the arm opposite the leg pushing off the ground for
+  maximum reach height (lay-up style)
+
+*** Waltz step agility
+[[https://www.youtube.com/embed/GtmDQJ8a13Q?rel=0][Video demo (slow)]]
+[[https://www.youtube.com/embed/Bn3BWRKhwi0?rel=0][Video demo (full speed)]]
+
+- Works on quick feet, hip action, and change of direction.
+- Center of mass should remain at about the same height as the feet
+  move underneath
+
+Practice the movement slowly to understand the footwork pattern before
+working on speed.
+
+- aim for both speed and accuracy of foot placement
+- center of mass should remain on the line created by the cones
+- keep your head up, not looking at your feet
+
+*** Zig zag sprints
+[[https://www.youtube.com/embed/YdgYleKenGM?rel=0][Video demo]]
+
+- You should be using the jab step or waltz step in each turn.
+  practice both!
+
+** Conditioning
+*** 1. 80/20 workout
+[[https://www.youtube.com/embed/cZA1U6-Etb4?rel=0][Video demo]]
+
+This is the standard workout you'll be using for the duration of the
+program.
+
+Before your first linear workout (the 80/20 workout) you need to find
+your starting point. The starting number of reps will be dependent on
+your current fitness level. The 80/20 workout consists of running at
+80% sprint speed for 20 seconds and walking for 40 seconds.&nbsp; The
+goal of your first workout will be to experiment with pacing and
+choose a starting point for your workouts.&nbsp; The running pace
+should feel like a fast run more than a sprint. You should be at a
+speed at which you’re landing a bit forward of the midfoot.&nbsp; It
+should feel like a pleasant speed, not a forced speed. Try to maintain
+this speed for every repetition.&nbsp; When it starts feeling like you
+are struggling to maintain good form or that you are not able to
+complete a repetition at the same pace, then stop.&nbsp; This will be
+your test number and you will start your workouts at this number minus
+2 repetitions. You will be starting at a number of repetitions lower
+than what you can do to ensure complete recovery between workouts.
+
+Read the pdf to see how many reps you should do throughout the whole
+program, whenever it says "test," you are using the initial test
+number.
+
+*** 2. Skater hops
+[[https://www.youtube.com/embed/OTUNlc93jac?rel=0][Video demo]]
+
+See pdf for reps and work:rest intervals
+
+*** 3. 150 shuttles
+[[https://www.youtube.com/embed/ZAuBWII18p4?rel=0][Video demo]]
+
+Can be done as 160 shuttles instead if you're using an ultimate field
+for your workouts. Attempt to change direction with right and left
+handed turns an equal number of times.
+
+*** 4. Zig zag sprints
+[[https://www.youtube.com/embed/YdgYleKenGM?rel=0][Video demo]]
+
+Set up 2 rows of cones about 5-7 yards apart. In each row, three cones
+are placed about 8 yards apart. The two rows are off set by 4 yards to
+create a zig-zag pattern.
+
+* Export on save                                                   :noexport:
+;; Local Variables:
+;; eval: (add-hook 'after-save-hook 'org-html-export-to-html nil t)
+;; End:

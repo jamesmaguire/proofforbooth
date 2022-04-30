@@ -1,4 +1,4 @@
-#+title: Block 6
+#+title: Block 6 (Taper)
 #+subtitle: April 2022
 #+setupfile: page.setup
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/page.css" />

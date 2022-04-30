@@ -2,17 +2,19 @@
 function initPage() {
 
     // Highlight current in schedule
-    const oneweek = 1000*60*60*24*7;
-    let currweek;
-    const now = Date.now();
-    // const now = Date.now()+oneweek*2; // For testing
-    for (let i=1; i<scheduletable.rows.length; i++) {
-        let date = scheduletable.rows[i].cells[1].innerHTML;
-        if (now>Date.parse(date)+oneweek) {
-            scheduletable.rows[i].classList.add('pastweek');
-        } else if (now>Date.parse(date) && now<Date.parse(date)+oneweek) {
-            scheduletable.rows[i].classList.add('thisweek');
-            currweek = scheduletable.rows[i].cells[0].innerHTML;
+    if (document.getElementById('scheduletable') != null) {
+        const oneweek = 1000*60*60*24*7;
+        let currweek;
+        const now = Date.now();
+        // const now = Date.now()+oneweek*2; // For testing
+        for (let i=1; i<scheduletable.rows.length; i++) {
+            let date = scheduletable.rows[i].cells[1].innerHTML;
+            if (now>Date.parse(date)+oneweek) {
+                scheduletable.rows[i].classList.add('pastweek');
+            } else if (now>Date.parse(date) && now<Date.parse(date)+oneweek) {
+                scheduletable.rows[i].classList.add('thisweek');
+                currweek = scheduletable.rows[i].cells[0].innerHTML;
+            }
         }
     }
 

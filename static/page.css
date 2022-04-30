@@ -128,10 +128,13 @@ a:hover {
   text-decoration: underline;
 }
 
-ul {
+ul,ol {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   margin-left: 1.5rem;
+}
+li {
+  margin-bottom: 0.3rem;
 }
 
 table {

@@ -1,0 +1,9 @@
+tr {
+  border: 1px solid #aaa;
+}
+tr:nth-child(even), th {
+  background-color: #ccc;
+}
+td {
+  height: 3.5rem;
+}
